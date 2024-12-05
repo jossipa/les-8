@@ -46,19 +46,22 @@
     <div class="container mx-auto p-4 animate-fade animate-once animate-delay-[500ms]" v-if="imageLoaded">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
         <!-- First column -->
-        
-        <div>
-          <h1 class="text-3xl md:text-3xl lg:text-6xl lg:mb-3 font-bold">{{ data.title }}</h1>
-          <h1 v-if="data.subtitle" class="opacity-80 text-xl md:text-2xl lg:text-3xl font-bold pb-10">{{ data.subtitle }}</h1>
-          <!--<p class="text-lg md:text-2xl lg:text-xl pb-5 font-bold">{{ data.description }}</p>-->
-          
-          <div v-if="data.imagegallery && data.imagegallery.showgallery == true">
+    <!-- Title spanning across both columns -->
+        <div class="col-span-1 md:col-span-2">
+          <h1 class="text-3xl md:text-3xl lg:text-6xl font-bold">{{ data.title }}</h1>
+        </div>
+
+        <div>   
+          <div v-if="data.imagegallery && data.imagegallery.showgallery == true" class="mt-8">
             <ImageGallery v-lazy /> <!-- Lazy load the ImageGallery component -->
           </div>
         </div>
 
         <!-- Second column -->
         <div>
+          <h1 v-if="data.subtitle" class="opacity-80 text-xl md:text-2xl lg:text-3xl font-bold pb-10">{{ data.subtitle }}</h1>
+          <p class="text-lg md:text-2xl lg:text-xl pb-5 font-thin mt-10">{{ data.description }}</p>
+          
           <ContentRenderer :value="data" v-lazy /> <!-- Lazy load ContentRenderer -->
         </div>
       </div>

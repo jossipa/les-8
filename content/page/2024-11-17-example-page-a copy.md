@@ -11,12 +11,14 @@ imagegallery:
     - /img/saville-d.jpg
     - /img/typo_sblue.png
     - /img/typo_sbrown.png
+    - /img/typo_blue.png
+    - /img/typo_brown.png
   gallerytitle: ""
 thumbnail: /img/typoo.png
 date: 2024-11-17T14:29:57.955Z
 numbernavigation: 1
 layoutpage: layout2
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+description: type for print and digital
 promoted: "0"
 ---
 <br>
@@ -32,11 +34,6 @@ For this assignment we had to shape a quote into a poster and animation. I got a
 
 <br>
 
-
-<br>
-
-**- Animation -**
-<br>
 
 On this link you can the animated quote I made for an Instagram post:
 <br>
