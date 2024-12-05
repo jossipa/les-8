@@ -5,24 +5,34 @@ tags:
   - Tag A
 imagegallery:
   showgallery: true
-  carouselgrid: carousel
+  carouselgrid: grid
   galleryImages:
-    - /img/pierre-chatel-innocenti-amlcrqr6wns-unsplash.jpg
-    - /img/elimende-inagella-oj8ahnj18gc-unsplash.jpg
+   - /img/ok2.jpg
+   - /img/ok3.jpg
+   - /img/ok4.jpg
+   - /img/ok5.jpg
+   - /img/ok6.jpg
+   - /img/ok7.jpg
+   - /img/ok8.jpg
+   - /img/ok9.jpg
   gallerytitle: ""
-thumbnail: /img/matze-bob-rq8i6_hg_og-unsplash.jpg
+thumbnail: /img/ok9.jpg
 date: 2024-11-17T14:29:57.955Z
 numbernavigation: 1
 layoutpage: layout2
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
   fringilla nunc id tellus commodo, et suscipit nisl mattis. Duis venenatis
-  malesuada libero, tristique consectetur augue egestas pharetra. Cras sit amet
-  lacinia nulla, et accumsan nulla. Orci varius natoque penatibus et magnis dis
-  parturient montes, nascetur ridiculus mus. Vivamus  rhoncus bibendum orci, in
-  sodales risus ullamcorper in. Cras sed cursus arcu. Mauris pulvinar euismod
-  eros, vitae elementum massa mattis vitae. Duis viverra mattis vulputate.
+
 promoted: "0"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla nunc id tellus commodo, et suscipit nisl mattis. Duis venenatis malesuada libero, tristique consectetur augue egestas pharetra. Cras sit amet lacinia nulla, et accumsan nulla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus  rhoncus bibendum orci, in sodales risus ullamcorper in. Cras sed cursus arcu. Mauris pulvinar euismod eros, vitae elementum massa mattis vitae. Duis viverra mattis vulputate. 
+<br>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla nunc id tellus commodo, et suscipit nisl mattis. Duis venenatis malesuadva libero, tristique consectetur augue egestas pharetra. Cras sit amet lacinia nulla, et accumsan nulla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus rhoncus bibendum orci, in sodales risus ullamcorper in. Cras sed cursus arcu. Mauris pulvinar euismod eros, vitae elementum massa mattis vitae. Duis viverra mattis vulputate.
+<br>
+
+For this assignment we are making a museum catalog for an exhibition called _Onderkruipsels_, which is all about small, “creepy” creatures like beetles, lizards, and mice. The exibition was organized by the _Rijksmuseum_ in Amsterdam so we used a portion of the text from the real organization and official photos from the museum. The goal was to make an interesting but clean design which would be fun to look at while walking through the museum.
+
+I tried to achieve a combination of traditional and modern elements to honour the history that's being talked about without being old-fashioned.
+
+<br>
+
+![catalogue](/img/ok1.jpg)

@@ -6,11 +6,21 @@ tags:
   - Tag 1
   - Tag 3
   - Tag 2
-thumbnail: /img/pat-krupa-oM9L2V90-i4-unsplash.jpg
+imagegallery:
+  showgallery: true
+  carouselgrid: grid
+  galleryImages:
+    - /img/datavis-t.png
+    - /img/datavis-l.png
+    - /img/datavis-p.png
+  gallerytitle: ""
+thumbnail: /img/datavis-t.png
 date: 2024-11-15T14:18:09.679Z
-author: John Jones
+author: 
 numbernavigation: 1
 layoutblog: layout2
 promoted: 100
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae ligula eget sem ultricies pharetra nec vitae mauris. Duis vitae condimentum ante, sed rutrum neque. Proin orci purus, venenatis in venenatis eu, ullamcorper quis tellus. Fusce blandit non metus sed interdum. Nulla nibh metus, posuere et massa et, aliquam commodo felis. Duis ut felis quis metus elementum pharetra non sed felis. Morbi ac elementum mauris. Praesent nec orci ut tortor vulputate euismod. Donec id porta nisi, ut consequat nisl. Nulla tellus mauris, posuere sit amet magna id, vehicula egestas eros. Aenean sed faucibus augue. Cras sit amet orci fermentum, vestibulum neque ac, pulvinar neque.
+For this assignment, I worked on a data visualization. The task was to use your own data you collected over the Easter holiday (2024). The goal is to create two visualizations by the end of the project: one focused on time and the other on location. Both need to be in A6 format and later fit onto an A4 presentation.
+
+![dataviz](/img/datavis-t.png) 

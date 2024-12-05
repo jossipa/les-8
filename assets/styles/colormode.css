@@ -4,7 +4,7 @@ body {
     color: rgba(0,0,0,0.8);
     }
     .light-mode body {
-    background-color: #ccd6ea;
+    background-color: #b4dfea;
     color: #1e1b4b;
     }
     .el-drawer {
@@ -19,7 +19,7 @@ body {
         background-color: #161715;
     }
     .dark-mode .el-drawer {
-        background-color: rgba(30, 30, 30, 0.98);
+        background-color: #235348dd;
       }
     /* */
     .gray-mode body {
