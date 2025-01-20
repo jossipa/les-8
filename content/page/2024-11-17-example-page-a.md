@@ -2,26 +2,25 @@
 layout: default
 title: Onderkruipsels
 tags:
-  - Tag A
+  - print
 imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
-   - /img/ok2.jpg
-   - /img/ok3.jpg
-   - /img/ok4.jpg
-   - /img/ok5.jpg
-   - /img/ok6.jpg
-   - /img/ok7.jpg
-   - /img/ok8.jpg
-   - /img/ok9.jpg
+    - /img/ok2.jpg
+    - /img/ok3.jpg
+    - /img/ok4.jpg
+    - /img/ok5.jpg
+    - /img/ok6.jpg
+    - /img/ok7.jpg
+    - /img/ok8.jpg
+    - /img/ok9.jpg
   gallerytitle: ""
 thumbnail: /img/ok9.jpg
 date: 2024-11-17T14:29:57.955Z
 numbernavigation: 1
 layoutpage: layout2
 description: catalogue design
-
 promoted: "0"
 ---
 

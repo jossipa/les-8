@@ -2,7 +2,8 @@
 layout: default
 title: Typography
 tags:
-  - Tag A
+  - digital
+  - print
 imagegallery:
   showgallery: true
   carouselgrid: grid
